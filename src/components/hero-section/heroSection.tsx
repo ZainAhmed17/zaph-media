@@ -1,6 +1,6 @@
 "use client";
 
-import styles from "./HeroSection.module.scss";
+import styles from "./heroSection.module.scss";
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { useEffect, useRef } from "react";
